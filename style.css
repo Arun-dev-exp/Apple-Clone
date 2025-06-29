@@ -1,0 +1,164 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header {
+    display:flex;
+    padding:1rem;
+    background-color: rgb(247, 247, 247);
+     /* margin-top:1rem; */
+    justify-content: center;
+    gap:2.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.latest-Items{
+     display:flex;
+     background-color: rgb(247, 247, 247);
+    padding:1rem;
+     /* margin-top:1rem; */
+    justify-content: center;
+    gap:2.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.compare{
+    margin-top: 0.6rem;
+}
+.AirPods{
+    margin-top: 1.5rem;
+}
+.AirTag{
+    margin-top: 1.65rem;
+}
+.ios18{
+    margin-top: 1.7rem;
+}
+.EMI{
+    display: flex;
+    justify-content: center;
+    height: 3.5vh;
+    align-items: center;
+    background-color: rgb(241, 241, 241);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.75rem;
+}
+
+.title{
+    margin-top: 5rem;
+    display: flex;
+    font-size: 2.5rem;
+    justify-content: center;
+}
+.iPhone{
+    margin-right: 37%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#design{
+    font-size:1.7rem ;
+    margin-top:5%;
+    margin-left:17%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.video{
+  
+    margin: 3rem;
+    height: 70vh;
+    width: 95%;
+    border-radius: 5%;
+}
+.features{
+    margin:5rem;
+    font-size: 2.5rem;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     height: 80vh;
+      
+}
+.features img{
+        margin-top:2rem;
+        width:100%;
+        border-radius:3%;  
+}
+.privacy-iPhone{
+margin-top:20rem;
+}
+.privacy{
+   margin:5rem;
+    font-size: 2.5rem;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     height: 50vh;
+}
+.privacy img{
+        margin-top:2rem;
+        width:100%;
+        border-radius:3%;  
+     } 
+.iPhone-Accessories{
+    margin-top:35rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.title-essentials{
+   margin:5rem;
+    font-size: 2.5rem;
+}
+.Accessories-img{
+    margin-top:2rem;
+    width:100%;
+   border-radius:3%;
+}
+.significane-of-apple{
+    margin-top: 6rem;
+}
+.Significant{
+     margin:5rem;
+    font-size: 2.5rem;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     height: 50vh;
+}
+.differnciator{
+     margin-top:2rem;
+    width:100%;
+   border-radius:3%;
+}
+.ending{
+    background-color: #fafafc;
+     margin-top: 35rem;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.iPhone-ending{
+   
+     margin:5rem;
+    font-size: 2.5rem;
+     
+     /* height: 50vh; */
+}
+.other-options{
+    display: flex;
+}
+.new-releses{
+     margin:5rem;
+     color:grey;
+}
+.new-releses ul{
+    margin-top:1rem;
+    color: black;
+}
+.new-releses ol{
+    margin-top:1.5rem;
+    color:rgb(42, 42, 42);
+}
+.near-by-shops{
+    margin:5rem;
+     color:grey;
+}
+.near-by-shops ul{
+    margin-top: 1rem;
+    color:black;
+}
+.more-from-iPhone{
+    margin:5rem;
+    color:gray;
+}
+.more-from-iPhone ul{
+    margin-top:1rem;
+    color:black;
+}
